@@ -1,0 +1,116 @@
+body{
+    background-image: url(https://2.bp.blogspot.com/-yJoB-rQ1nJ8/V2nC_QuvkrI/AAAAAAAHKkc/kytXVzvoRlQzsiF-chUjLfnllrP4B1WdACLcB/s1600/egoodies-MM-wallpaper3-1.jpg)
+    
+}
+
+.todo{
+    height: auto;
+    width: 1500px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+
+.antesde{
+    height: 380px;
+    width: auto;
+    background-color:rgb(90, 74, 74);
+    margin: 30px;
+    padding: 30px;
+    border-radius: 20px;
+
+}
+.cabecera{
+    background-color:white;
+    height: 250px;
+    width: 690px;
+    margin: 30px;
+    padding: 30px;
+    float: left;
+    border-radius: 20px;
+}
+
+.pre1{
+    background-color: rgb(90, 74, 74);
+    height: 480px;
+    width: auto;
+    margin: 30px;
+    padding: 30px;
+    border-radius: 20px;
+
+}
+
+.imgheader{
+    background-color:ghostwhite;
+    height: 250px;
+    width: 450px;
+    margin: 30px;
+    padding: 30px;
+    text-align: center;
+    float: right;
+    border-radius: 20px;
+    
+}
+.img1{
+    background-color:white;
+    height: auto;
+    width: 450px;
+    margin: 30px;
+    padding: 30px;
+    text-align: center;
+    float: left;
+    border-radius: 20px;
+}
+
+
+.Pre-Comienzo{
+    background-color:white;
+    height: 340px;
+    width: 650px;
+    margin: 30px;
+    padding: 30px;
+    float: right;
+    text-align: center;
+    border-radius: 20px;
+}
+
+.ParaTi{
+    background-color: rgb(90, 74, 74);
+    height: 1100px;
+    width: auto;
+    margin: 30px;
+    padding: 30px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.imgparati{
+    background-color: white;
+    height: 800px;
+    width: 500px;
+    margin: 10px;
+    padding: 30px;
+    text-align: center;
+    float:right;
+    border-radius: 20px;
+}
+.parte1{
+    background-color: white;
+    height: 250px;
+    width: 670px;
+    margin: 30px;
+    padding: 30px;
+    border-radius: 20px;
+}
+
+.parte2{
+    background-color: white;
+    height: 465px;
+    width: 670px;
+    margin: 30px;
+    padding: 30px;
+    border-radius: 20px;
+}
+
+.Segundaparte{
+    float:left;
+}
